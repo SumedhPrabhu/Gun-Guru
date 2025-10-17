@@ -21,7 +21,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, the project focuses on a smoo
 |-------------|----------|
 | **HTML5** | Structure and content |
 | **CSS3** | Styling and layout |
-| **JavaScript (ES6)** | Dynamic interactivity and functionality |
+| **JavaScript** | Dynamic interactivity and functionality |
 
 
 
